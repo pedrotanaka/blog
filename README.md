@@ -1,4 +1,10 @@
-blog
-====
+HTML5 Muffin chocchip steps
+============================
 
-My blog.
+Run bundle install
+
+	bundle install
+
+Run jekyll
+
+	jekyll
