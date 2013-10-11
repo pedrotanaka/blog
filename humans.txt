@@ -1,9 +1,8 @@
 /* TEAM */
                             
-Your title: Your name.                        
-Site: email, link to a contact form, etc.                         
-Twitter: your Twitter username.                        
-Location: City, Country.
+Your title: Pedro Tanaka.                        
+Site: www.linkedin.com/in/pedrotanaka.                                                
+Location: Silicon Valley.
 
 
 /* THANKS */
