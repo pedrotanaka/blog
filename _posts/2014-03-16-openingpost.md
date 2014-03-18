@@ -1,6 +1,7 @@
 ---
 layout: post_page
 title: First post!
+comments: true
 ---
 
 The first post of my first blog.
